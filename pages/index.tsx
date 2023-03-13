@@ -42,9 +42,9 @@ const Home: NextPage = () => {
   return (
     <>
       <div className="bg-white">
-        <div className="mx-auto max-w-7xl overflow-hidden py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
-        <div className="flex flex-col text-center w-full mb-20">
-      <h2 className="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1">Our latest demo products</h2>
+        <div className="mx-auto max-w-7xl overflow-hidden py-10 px-4 sm:py-24 sm:px-6 lg:px-8">
+        <div className="flex flex-col text-center w-full mb-12">
+      <h2 className="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1">powered by CandyPay X Samoyedcoin</h2>
       <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">Pay with Solana, USDC and what not!</h1>
     </div>
           <div className="grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 lg:gap-x-8">
