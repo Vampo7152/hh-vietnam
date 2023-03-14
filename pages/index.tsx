@@ -8,34 +8,12 @@ const Home: NextPage = () => {
       id: 1,
       name: "Hot Coffee",
       href: "#",
-      price: 0.02,
+      price: 1,
       color: "roasted",
       imageSrc:
-      "https://post.healthline.com/wp-content/uploads/2020/08/AN275-cup-of-coffee-732x549-Thumb_0.jpg",
+      "https://res.cloudinary.com/dtzqgftjk/image/upload/v1678791500/HoChiMinhHH_Coffee_bvwcvo.png",
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-    },
-    {
-      id: 2,
-      name: "Gradient Shiny Pullover",
-      href: "#",
-      price: 0.03,
-      color: "black",
-      imageSrc:
-      "https://store.solana.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0560%2F2017%2F2968%2Fproducts%2FFrame11663.png%3Fv%3D1658765433&w=750&q=100",
-      imageAlt:
-        "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.",
-    },
-    {
-      id: 3,
-      name: "Solana Neck Gaiter",
-      href: "#",
-      color: "pattern green",
-      price: 0.04,
-      imageSrc:
-      "https://store.solana.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0560%2F2017%2F2968%2Fproducts%2FFrame11668.png%3Fv%3D1658765330&w=750&q=100",
-      imageAlt:
-        "Salmon orange fabric pouch with match zipper, gray zipper pull, and adjustable hip belt.",
     },
   ];
   const router = useRouter();

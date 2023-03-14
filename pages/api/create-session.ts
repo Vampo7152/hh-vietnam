@@ -15,7 +15,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         discounts:{
           collection_id:
             "6VsH4ijXWNNTNxWwVkpVcVLrFaH6M86Rd8qYhnJrMtkm", 
-          discount: 0.3,
+          discount: 0.5,
           name: "Samoyedcoin NFT",
           image:
             "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreifaph56hyconj2ps3zsmsamnxg7b66bzpwlcqmxfj3uttcevwsw6a.ipfs.nftstorage.link/",
