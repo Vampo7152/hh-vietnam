@@ -45,9 +45,15 @@ export default function Navbar() {
                       alt="Your Company"
                     />
                   </div>
+                  <button
+                    onClick={() => {
+                      router.push("/");
+                    }}
+                  >
                   <div className="inline-flex items-center pl-4 pt-1 text-xl font-bold text-gray-900">
                     Solana Hacker House
                   </div>
+                  </button>
                 </div>
                 <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">

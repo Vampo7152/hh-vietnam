@@ -20,7 +20,7 @@ const products = [
     name: "Hot Coffee",
     price: 1,
     images: "https://res.cloudinary.com/dtzqgftjk/image/upload/v1678791500/HoChiMinhHH_Coffee_bvwcvo.png",
-    description: ""
+    description: "50% with SAMO NFT"
   },
 ];
 function classNames(...classes: any[]) {
