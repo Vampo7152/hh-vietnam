@@ -17,9 +17,9 @@ import { Checkout } from "../../components/checkout";
 import { ProductContext } from "../_app";
 const products = [
   {
-    name: "1600 Cardinal Avenue",
-    price: 1,
-    images: "https://genesis104630-dev.s3.us-west-2.amazonaws.com/homebase-1/photos/1-web-or-mls-1-1.jpg",
+    name: "Hot Coffee",
+    price: 0.02,
+    images: "https://res.cloudinary.com/dtzqgftjk/image/upload/v1678791500/HoChiMinhHH_Coffee_bvwcvo.png",
     description: "50% with SAMO NFT"
   },
 ];

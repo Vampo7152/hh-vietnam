@@ -7,6 +7,6 @@ export const candypay = new CandyPay({
   },
   network: "mainnet",
   config: {
-    collect_shipping_address: true,
+    collect_shipping_address: false,
   },
 });

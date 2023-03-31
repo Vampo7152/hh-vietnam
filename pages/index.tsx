@@ -6,12 +6,12 @@ const Home: NextPage = () => {
   const products = [
     {
       id: 1,
-      name: "1600 Cardinal Avenue",
+      name: "Hot Coffee",
       href: "#",
       price: 1,
-      color: "McAllen, TX",
+      color: "50% with SAMO NFT",
       imageSrc:
-      "https://genesis104630-dev.s3.us-west-2.amazonaws.com/homebase-1/photos/1-web-or-mls-1-1.jpg",
+      "https://res.cloudinary.com/dtzqgftjk/image/upload/v1678791500/HoChiMinhHH_Coffee_bvwcvo.png",
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
